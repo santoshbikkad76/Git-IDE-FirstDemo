@@ -57,3 +57,20 @@
 2021-10-04 18:15:08,812 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-04 18:15:08,812 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-10-04 18:15:08,812 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\BR011TX\Desktop\Bikkad IT 01\Git-Practice\GitDemo\src\test\resources
+2021-10-04 18:24:26,030 [Worker-8: Creating project "GitDemo2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bikkadIt:GitDemo2:0.0.1-SNAPSHOT @ C:\Users\BR011TX\Desktop\Bikkad IT 01\Git-Practice\GitDemo2\pom.xml.
+2021-10-04 18:24:28,166 [Worker-8: Creating project "GitDemo2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo2/src/main/java
+2021-10-04 18:24:28,167 [Worker-8: Creating project "GitDemo2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GitDemo2/src/main/resources
+2021-10-04 18:24:28,168 [Worker-8: Creating project "GitDemo2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo2/src/test/java
+2021-10-04 18:24:28,169 [Worker-8: Creating project "GitDemo2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GitDemo2/src/test/resources
+2021-10-04 18:24:30,720 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:24:30,803 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-04 18:24:30,806 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:24:30,807 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-04 18:25:09,553 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:25:09,558 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-04 18:25:09,561 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:25:09,563 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-04 18:25:41,942 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:25:41,944 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-10-04 18:25:41,946 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-04 18:25:41,948 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
